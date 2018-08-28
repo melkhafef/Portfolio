@@ -1,0 +1,59 @@
+@media screen and (min-width:450px) {
+    .myInfo {
+        padding-top: .5%;
+    }
+}
+
+@media screen and (min-width:500px) {
+    .info {
+        padding-top: 1%;
+    }
+}
+
+@media screen and (min-width:550px) {
+    .info {
+        padding-top: 1.5%;
+    }
+}
+
+@media screen and (min-width:600px) {
+    .info {
+        padding-top: 2%;
+    }
+
+    .first,
+    .second {
+        width: 50%;
+    }
+}
+
+@media screen and (min-width:650px) {
+    .info {
+        padding-top: 2.5%;
+    }
+}
+
+@media screen and (min-width:700px) {
+    .info {
+        padding-top: 3%;
+    }
+}
+
+@media screen and (min-width:750px) {
+    body {
+        width: 750px;
+        margin: 0 auto;
+    }
+
+    .info {
+        padding-top: 3.5%;
+    }
+
+    .head {
+        text-align: left;
+    }
+
+    .project {
+        width: 33.333333333%;
+    }
+}
